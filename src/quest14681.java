@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Main {
+public class quest14681 {
     public static void main(String[] args) {
-      // 백준 14681 번
+        // 백준 14681 번
         // 사분면 고르기
         // 1사분면 x, y 둘다 양수(0 < x, 0 < y )
         // 2사분면 x는 음수, y는 양수 (0>x, 0< y)
@@ -23,5 +23,5 @@ public class Main {
         }
         System.out.println();
         // return 0 ;
-}
+    }
 }
